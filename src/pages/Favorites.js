@@ -1,5 +1,5 @@
 function FavoritesPage(){
-    return <div>All Meetups Page</div>;
+    return <div>Favorites Page</div>;
 }
 
 export default FavoritesPage;
